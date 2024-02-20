@@ -73,6 +73,7 @@
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#results and conclusion">Results and Conclusion</a></li>
     <li><a href="#data storage">Data Storage</a></li>
+    <li><a href="#final observations">Final Observations</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -302,6 +303,22 @@ the research community in perpetuity.
 
 
 
+<!-- Final Observations -->
+## Final Observations
+1. Which metadata standard did you choose and why?
+
+   I chose the Data Documentation Initiative (DDI) standard for my metadata documentation. The decision was driven by DDI's comprehensive approach to describing data produced by surveys and other observational methods in the social, behavioral, economic, and health sciences. DDI's widespread acceptance and its ability to facilitate sharing, comparing, and interpreting data across various sources were also key factors. Its compatibility with longitudinal, cross-sectional, and comparative study designs made it particularly suitable for the nuanced insights required for my "Urban Population Analysis (1950-2050)" dataset.
+
+2. Which template/software did you use?
+
+   I used a template on Github, named [Best-README-Template](https://github.com/othneildrew/Best-README-Template). I also used [Banner Maker](https://banner.godori.dev/) to create a great banner of the project. I also used R studio when confirming the libraries to run.
+   
+3. What was the most challenging part of creating a ReadME file? How did you overcome these obstacles?
+
+   The most challenging part of creating the ReadMe file was ensuring that it was both comprehensive and accessible to a wide audience, including those without technical expertise. Balancing detail with clarity required careful consideration of the language and structure used. And also I am not familiar with the Github Platform, having trouble adjusting the features I want. In order to overcome these obstacles, I consulted a large number of templates and information, and also asked friends around me who had relevant experience. Finally, I achieved the results I wanted, and I am very satisfied with them.
+
+
+
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -344,6 +361,7 @@ Project Link: [https://github.com/YifanLei/HUDK4054](https://github.com/YifanLei
 ## References
 
 Kaggle - [Urban Population Analysis(1950-2050)](https://www.kaggle.com/datasets/girishchowdary22/urban-population-analysis1950-2050?resource=download)
+Github - [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -357,6 +375,7 @@ Use this space to list resources you find helpful and would like to give credit 
 * [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)
 * [UNCTAD](https://unctadstat.unctad.org/EN/)
 * [Kaggle](https://www.kaggle.com/datasets/girishchowdary22/urban-population-analysis1950-2050?resource=download)
+* [Banner Maker](https://banner.godori.dev/)
 * [DCC](https://www.dcc.ac.uk/resources/subject-areas/social-science-humanities)
 * [DDI](https://ddialliance.org/resources/tools)
 

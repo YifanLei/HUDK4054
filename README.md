@@ -71,6 +71,7 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#data storage">Data Storage</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -209,9 +210,18 @@ library(gganimate)
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+You can see what the chart looks like and an example of the analysis here.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+<div align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="Demo copy.png" alt="Logo" width="600" height="400">
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="Analysis copy.png" alt="Logo" width="600" height="400">
+  </a>
+</div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -231,6 +241,28 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- Data Storage -->
+## Data Storage
+Data will primarily be stored as a .csv file on the computers of the researchers. For
+data backups, the 3-2-1 backup rule will be followed. In addition to the data on the
+researchers’ devices, every researcher will have a designated backup USB-drive where a
+backup has to be stored every time the respective researcher worked with the data.
+Additionally, a cloud backup on the Columbia University CUIT servers will be performed
+twice a week. All researchers will not work with the original “raw” data which will be
+stored once on each researcher’s computer, once on a general hard drive at the
+research laboratory, once on the Columbia University CUIT servers, and once on the
+online repository. Researchers are encouraged to save a new file everytime they work
+with the data starting the file name by “YYYY-MM-DD…” so that one knows which file is
+the newest (Broman & Woo, 2018). Public use data and associated documentation will be
+made available to the research community free of charge through Open Science
+Foundation (OSF) data repository.
+
+Final submission and release of the study data will occur approximately 3 to 6 months
+after the end of our data collection. Study data deposited in OSF will be available to
+the research community in perpetuity.
 
 
 

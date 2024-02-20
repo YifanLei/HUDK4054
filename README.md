@@ -311,7 +311,7 @@ the research community in perpetuity.
 
 2. Which template/software did you use?
 
-   I used a template on Github, named [Best-README-Template](https://github.com/othneildrew/Best-README-Template). I also used [Banner Maker](https://banner.godori.dev/) to create a great banner of the project. I also used R studio when confirming the libraries to run.
+   I used a template on Github, named [Best-README-Template](https://github.com/othneildrew/Best-README-Template). I also used [Banner Maker](https://banner.godori.dev/) to create a great banner of the project. In addition, I used R studio when confirming the libraries to run.
    
 3. What was the most challenging part of creating a ReadME file? How did you overcome these obstacles?
 

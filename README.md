@@ -59,7 +59,8 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#Project Abstract">Project Abstract</a></li>
+        <li><a href="#Dataset Overview and Features">Dataset Overview and Features</a></li>
       </ul>
     </li>
     <li>

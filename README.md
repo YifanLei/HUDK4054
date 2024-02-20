@@ -59,8 +59,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#Project Abstract">Project Abstract</a></li>
-        <li><a href="#Dataset Overview and Features">Dataset Overview and Features</a></li>
+        <li><a href="#dataset overview and features">Dataset Overview and Features</a></li>
       </ul>
     </li>
     <li>
@@ -75,6 +74,7 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
+    <li><a href="#References">References</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
@@ -223,6 +223,15 @@ Distributed under the Apache 2.0 open source license. See `LICENSE.txt` for more
 Yifan Lei - [Facebook](https://www.facebook.com/profile.php?id=100011185567211&mibextid=LQQJ4d) - yl5526@tc.columbia.edu
 
 Project Link: [https://github.com/YifanLei/HUDK4054](https://github.com/YifanLei/HUDK4054)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- References -->
+## References
+
+Kaggle - [Urban Population Analysis(1950-2050)](https://www.kaggle.com/datasets/girishchowdary22/urban-population-analysis1950-2050?resource=download)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

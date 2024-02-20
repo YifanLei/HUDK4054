@@ -105,6 +105,9 @@ Research Date: 02-19-2024
 
 
 ### Dataset Overview and Features
+Dataset: [dataset.csv](https://www.kaggle.com/datasets/girishchowdary22/urban-population-analysis1950-2050?resource=download&select=dataset.csv)
+
+File Format: csv
 
 This table provides estimates from 1950 to 2021 and projections (medium fertility variant) from 2022 to 2050 of total population and urban population, expressed in thousands and as a percentage of total population, respectively. Population refers to de facto population in a country, area or region as of 1 July of the indicated year.
 

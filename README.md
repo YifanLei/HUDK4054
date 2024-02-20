@@ -65,8 +65,9 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
+        <li><a href="#models">Models</a></li>
+        <li><a href="#r libraries">R Libraries</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -130,19 +131,6 @@ Urban population as percentage of total population Missing value - Indicates the
 
 
 <!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
 ### Installation
 
 _You need to configure the environment_
@@ -168,6 +156,54 @@ _You need to configure the environment_
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+### Models
+1. **Linear Regression**
+- Used to analyze the relationship between year and urban population proportion, or the growth trend of the absolute value of population.
+2. **Time Series Analysis**
+- Especially if you want to predict urbanization trends or population growth trends in the next few years, you can use ARIMA models, etc.
+3. **Logistic Regression**
+- If you want to predict whether an economy will reach a certain level of urbanization based on other variables.
+4. **Cluster Analysis**
+- Used to group economies based on factors such as urbanization rate, population growth, etc.
+
+
+
+### R Libraries
+In order to properly run the models, the following R libraries are used:
+ ```sh
+ # dplyr and tidyr - for data manipulation and cleaning
+library(dplyr)
+library(tidyr)
+
+# ggplot2 - for creating visualizations like trend plots, scatter plots, etc.
+library(ggplot2)
+
+# forecast - for time series analysis and forecasting
+library(forecast)
+
+# lmtest and car - for diagnostic checking and hypothesis testing of linear regression models
+library(lmtest)
+library(car)
+
+# factoextra and cluster - for performing cluster analysis and visualizing the results
+library(factoextra)
+library(cluster)
+
+# caret or tidymodels - for a unified interface to train models, evaluate and compare them
+library(caret)
+# or
+library(tidymodels)
+
+# plm - for panel data analysis if the data structure is applicable
+library(plm)
+
+# gganimate - for creating dynamic visualizations that change over time
+library(gganimate)
+
+ ```
 
 
 

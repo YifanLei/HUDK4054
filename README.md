@@ -202,7 +202,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the Apache 2.0 open source license. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -211,9 +211,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Yifan Lei - [Facebook](https://www.facebook.com/profile.php?id=100011185567211&mibextid=LQQJ4d) - yl5526@tc.columbia.edu
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/YifanLei/HUDK4054](https://github.com/YifanLei/HUDK4054)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

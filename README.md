@@ -104,18 +104,23 @@ Research Date: 02-19-2024
 
 
 
-### Built With
+### Dataset Overview and Features
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+This table provides estimates from 1950 to 2021 and projections (medium fertility variant) from 2022 to 2050 of total population and urban population, expressed in thousands and as a percentage of total population, respectively. Population refers to de facto population in a country, area or region as of 1 July of the indicated year.
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+Year - This column records the years from 1950 to 2050
+
+Economy - Represents the code of the country or region's economy that the data pertains to
+
+Economy Label - This is the specific name or description of the economy, providing a readable label for the economy code
+
+Absolute value in thousands - Records the total population of the economy in a specific year, in thousands
+
+Absolute value in thousands Missing value - Indicates the cases where absolute population value data is missing, helping to identify incomplete entries in the dataset
+
+Urban population as percentage of total population - Shows the proportion of the urban population relative to the total population, expressed as a percentage
+
+Urban population as percentage of total population Missing value - Indicates the cases where data on the percentage of urban population is missing, used to identify records in the dataset lacking information on urbanization ratios
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

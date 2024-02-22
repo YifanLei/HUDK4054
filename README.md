@@ -33,7 +33,7 @@
     <img src="HUDK4054.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Urban Population Analysis(1950-2050)-READM</h3>
+  <h3 align="center">Urban Population Analysis(1950-2050)-README</h3>
 
   <p align="center">
     Looking into Global Population and Urbanization Trends!
